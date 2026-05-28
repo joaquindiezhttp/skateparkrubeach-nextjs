@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Skateparkrubeach · Panel",
-  description: "Gestión de inscripciones de Skateparkrubeach",
+  title: "Skatepark Perubeach · Panel",
+  description: "Gestión de inscripciones de Skatepark Perubeach",
 };
 
 export default function RootLayout({

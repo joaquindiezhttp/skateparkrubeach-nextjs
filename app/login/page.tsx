@@ -37,7 +37,7 @@ export default function LoginPage() {
         className="w-full max-w-sm bg-neutral-900 border border-neutral-800 rounded-lg p-6 space-y-4"
       >
         <h1 className="text-2xl font-bold tracking-tight">
-          Panel · <span className="text-yellow-400">Skateparkrubeach</span>
+          Panel · <span className="text-yellow-400">Skatepark Perubeach</span>
         </h1>
         <p className="text-sm text-neutral-400">
           Ingresá para gestionar las inscripciones.
